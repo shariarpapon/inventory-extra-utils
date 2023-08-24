@@ -1,4 +1,5 @@
 Extra utility functions for the XEntity - Inventory and Item system asset.
+--------------------
 
 IMPORTANT INSTRUCTIONS:
 You must change one of the existing asst script.
